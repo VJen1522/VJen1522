@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Veronica Jenkins👋
 
-<!--
-**VJen1522/VJen1522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-time working mom pursuing an MS in Data Science, Business Analytics, 
+and AI at University of Dallas. Building toward a career in AI systems 
+and architecture.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Python (BANA 6360 - Programming I)
+- Git/GitHub workflows
+- Data science fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [hello-world-and-beyond](https://github.com/VJen1522/hello-world-and-beyond) — Coursework and practice problems from my 
+  Programming I course
+
+## Currently
+🌱 Learning branching, environments, and building good coding habits
+🎯 Long-term goal: AI systems architecture — Coursework and practice problems from my 
+  Programming I course
