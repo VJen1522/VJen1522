@@ -27,8 +27,9 @@ Python · pandas · scikit-learn · Jupyter · VS Code · Git/GitHub · Claude �
   Practice problems and Graduate coursework
 
 ## 🌱 Currently
-- Taking BANA 6370: Programming with AI & Advanced Spreadsheet Modeling (Fall 2026)
-- Building my first payroll/HR analytics project
+- Taking BANA 6370: Programming with AI (Fall 2026)
+- Taking BANA 7380: Advanced Spreadsheet Modeling (Fall 2026)
+- Building my first payroll/HR analytics projects throughout the semester
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/veronica-jenkins-4432b3246/)
