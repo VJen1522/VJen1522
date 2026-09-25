@@ -31,4 +31,4 @@ Python · pandas · scikit-learn · Jupyter · VS Code · Git/GitHub · Claude �
 - Building my first payroll/HR analytics project
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[LinkedIn](https://www.linkedin.com/in/veronica-jenkins-4432b3246/)
