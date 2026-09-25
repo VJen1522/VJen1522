@@ -24,7 +24,7 @@ Python · pandas · scikit-learn · Jupyter · VS Code · Git/GitHub · Claude �
 - [Carseats Sales Classification](https://github.com/VJen1522/BANA_6360_Group_Project_Summer_26):
   Group project building a decision tree model to predict sales categories (Python, scikit-learn)
 - [hello-world-and-beyond](https://github.com/VJen1522/hello-world-and-beyond):
-  Coursework and practice problems from my Programming I course
+  Practice problems and Graduate coursework
 
 ## 🌱 Currently
 - Taking BANA 6370: Programming with AI & Advanced Spreadsheet Modeling (Fall 2026)
