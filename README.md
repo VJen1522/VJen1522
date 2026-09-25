@@ -27,7 +27,7 @@ Python · pandas · scikit-learn · Jupyter · VS Code · Git/GitHub · Claude �
   Coursework and practice problems from my Programming I course
 
 ## 🌱 Currently
-- Taking BANA 6370: Programming with AI (Fall 2026)
+- Taking BANA 6370: Programming with AI & Advanced Spreadsheet Modeling (Fall 2026)
 - Building my first payroll/HR analytics project
 
 ## 📫 Connect
